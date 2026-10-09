@@ -1,0 +1,6 @@
+{
+  "name": "Mercadinho Paranaguá - PDV & Gestão",
+  "description": "Sistema profissional de gestão comercial e frente de caixa (PDV) para o Mercadinho Paranaguá com controle de estoque e integração Supabase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
